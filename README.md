@@ -1,4 +1,5 @@
 # netflix-clone
+
 this is my first git repository.
 <br>
-Author-himanshu kuamr
+Author-himanshu--kumar 
