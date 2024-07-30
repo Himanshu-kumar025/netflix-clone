@@ -1,2 +1,4 @@
 # netflix-clone
-this is my first git repository
+this is my first git repository.
+<br>
+Author-himanshu kuamr
